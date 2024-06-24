@@ -1,6 +1,6 @@
 $schema: 1.0
-name: project-sample-1
-image: microsoftwindowsdesktop_windows-ent-cpc_win11-21h2-ent-cpc-m365
+name: jiantest-image-definition
+image: testImage8
 tasks:
     - name: choco
       parameters:
