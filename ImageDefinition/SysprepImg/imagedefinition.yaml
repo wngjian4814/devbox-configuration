@@ -1,6 +1,6 @@
 $schema: 1.0
 name: wngjian-sysprep2
-image: ~Gallery~wngjian_test_canary~test-canada-sysprep2@1.0.0
+image: ~Gallery~wngjian_test_canary~test_sys@1.0.1
 tasks:
     - name: choco
       parameters:
