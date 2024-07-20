@@ -1,6 +1,6 @@
 $schema: 1.0
 name: wngjian-custom
-image: ~Gallery~wngjian_test_canary~test_sys@1.0.1
+image: ~Gallery~wngjian_test_canary~test_sys@1.0.0
 tasks:
     - name: choco
       parameters:
